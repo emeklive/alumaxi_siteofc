@@ -1,0 +1,928 @@
+PASS [1920x1080] status / (200)
+PASS [1920x1080] sem rolagem horizontal / (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado / []
+PASS [1920x1080] status /sobre (200)
+PASS [1920x1080] sem rolagem horizontal /sobre (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /sobre []
+PASS [1920x1080] status /produtos (200)
+PASS [1920x1080] sem rolagem horizontal /produtos (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /produtos []
+PASS [1920x1080] status /vidros (200)
+PASS [1920x1080] sem rolagem horizontal /vidros (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /vidros []
+PASS [1920x1080] status /aluminio (200)
+PASS [1920x1080] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /aluminio []
+PASS [1920x1080] status /ferragens-e-acessorios (200)
+PASS [1920x1080] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [1920x1080] status /catalogo (200)
+PASS [1920x1080] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /catalogo []
+PASS [1920x1080] status /orcamento (200)
+PASS [1920x1080] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /orcamento []
+PASS [1920x1080] status /trabalhe-conosco (200)
+PASS [1920x1080] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /trabalhe-conosco []
+PASS [1920x1080] status /contato (200)
+PASS [1920x1080] sem rolagem horizontal /contato (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /contato []
+PASS [1920x1080] status /conteudos (200)
+PASS [1920x1080] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /conteudos []
+PASS [1920x1080] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [1920x1080] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [1920x1080] status /produtos/vidro-temperado (200)
+PASS [1920x1080] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [1920x1080] status /privacidade (200)
+PASS [1920x1080] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /privacidade []
+PASS [1920x1080] status /nao-existe (404)
+PASS [1920x1080] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [1920x1080] nenhum elemento cortado /nao-existe []
+PASS [1920x1080] sem erros de JavaScript []
+PASS [1440x900] status / (200)
+PASS [1440x900] sem rolagem horizontal / (excesso 0px)
+PASS [1440x900] nenhum elemento cortado / []
+PASS [1440x900] status /sobre (200)
+PASS [1440x900] sem rolagem horizontal /sobre (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /sobre []
+PASS [1440x900] status /produtos (200)
+PASS [1440x900] sem rolagem horizontal /produtos (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /produtos []
+PASS [1440x900] status /vidros (200)
+PASS [1440x900] sem rolagem horizontal /vidros (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /vidros []
+PASS [1440x900] status /aluminio (200)
+PASS [1440x900] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /aluminio []
+PASS [1440x900] status /ferragens-e-acessorios (200)
+PASS [1440x900] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [1440x900] status /catalogo (200)
+PASS [1440x900] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /catalogo []
+PASS [1440x900] status /orcamento (200)
+PASS [1440x900] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /orcamento []
+PASS [1440x900] status /trabalhe-conosco (200)
+PASS [1440x900] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /trabalhe-conosco []
+PASS [1440x900] status /contato (200)
+PASS [1440x900] sem rolagem horizontal /contato (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /contato []
+PASS [1440x900] status /conteudos (200)
+PASS [1440x900] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /conteudos []
+PASS [1440x900] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [1440x900] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [1440x900] status /produtos/vidro-temperado (200)
+PASS [1440x900] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [1440x900] status /privacidade (200)
+PASS [1440x900] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /privacidade []
+PASS [1440x900] status /nao-existe (404)
+PASS [1440x900] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [1440x900] nenhum elemento cortado /nao-existe []
+PASS [1440x900] sem erros de JavaScript []
+PASS [1366x768] status / (200)
+PASS [1366x768] sem rolagem horizontal / (excesso 0px)
+PASS [1366x768] nenhum elemento cortado / []
+PASS [1366x768] status /sobre (200)
+PASS [1366x768] sem rolagem horizontal /sobre (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /sobre []
+PASS [1366x768] status /produtos (200)
+PASS [1366x768] sem rolagem horizontal /produtos (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /produtos []
+PASS [1366x768] status /vidros (200)
+PASS [1366x768] sem rolagem horizontal /vidros (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /vidros []
+PASS [1366x768] status /aluminio (200)
+PASS [1366x768] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /aluminio []
+PASS [1366x768] status /ferragens-e-acessorios (200)
+PASS [1366x768] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [1366x768] status /catalogo (200)
+PASS [1366x768] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /catalogo []
+PASS [1366x768] status /orcamento (200)
+PASS [1366x768] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /orcamento []
+PASS [1366x768] status /trabalhe-conosco (200)
+PASS [1366x768] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /trabalhe-conosco []
+PASS [1366x768] status /contato (200)
+PASS [1366x768] sem rolagem horizontal /contato (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /contato []
+PASS [1366x768] status /conteudos (200)
+PASS [1366x768] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /conteudos []
+PASS [1366x768] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [1366x768] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [1366x768] status /produtos/vidro-temperado (200)
+PASS [1366x768] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [1366x768] status /privacidade (200)
+PASS [1366x768] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /privacidade []
+PASS [1366x768] status /nao-existe (404)
+PASS [1366x768] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [1366x768] nenhum elemento cortado /nao-existe []
+PASS [1366x768] sem erros de JavaScript []
+PASS [768x1024] status / (200)
+PASS [768x1024] sem rolagem horizontal / (excesso 0px)
+PASS [768x1024] nenhum elemento cortado / []
+PASS [768x1024] status /sobre (200)
+PASS [768x1024] sem rolagem horizontal /sobre (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /sobre []
+PASS [768x1024] status /produtos (200)
+PASS [768x1024] sem rolagem horizontal /produtos (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /produtos []
+PASS [768x1024] status /vidros (200)
+PASS [768x1024] sem rolagem horizontal /vidros (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /vidros []
+PASS [768x1024] status /aluminio (200)
+PASS [768x1024] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /aluminio []
+PASS [768x1024] status /ferragens-e-acessorios (200)
+PASS [768x1024] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [768x1024] status /catalogo (200)
+PASS [768x1024] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /catalogo []
+PASS [768x1024] status /orcamento (200)
+PASS [768x1024] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /orcamento []
+PASS [768x1024] status /trabalhe-conosco (200)
+PASS [768x1024] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /trabalhe-conosco []
+PASS [768x1024] status /contato (200)
+PASS [768x1024] sem rolagem horizontal /contato (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /contato []
+PASS [768x1024] status /conteudos (200)
+PASS [768x1024] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /conteudos []
+PASS [768x1024] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [768x1024] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [768x1024] status /produtos/vidro-temperado (200)
+PASS [768x1024] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [768x1024] status /privacidade (200)
+PASS [768x1024] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /privacidade []
+PASS [768x1024] status /nao-existe (404)
+PASS [768x1024] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [768x1024] nenhum elemento cortado /nao-existe []
+PASS [768x1024] sem erros de JavaScript []
+PASS [390x844] status / (200)
+PASS [390x844] sem rolagem horizontal / (excesso 0px)
+PASS [390x844] nenhum elemento cortado / []
+PASS [390x844] status /sobre (200)
+PASS [390x844] sem rolagem horizontal /sobre (excesso 0px)
+PASS [390x844] nenhum elemento cortado /sobre []
+PASS [390x844] status /produtos (200)
+PASS [390x844] sem rolagem horizontal /produtos (excesso 0px)
+PASS [390x844] nenhum elemento cortado /produtos []
+PASS [390x844] status /vidros (200)
+PASS [390x844] sem rolagem horizontal /vidros (excesso 0px)
+PASS [390x844] nenhum elemento cortado /vidros []
+PASS [390x844] status /aluminio (200)
+PASS [390x844] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [390x844] nenhum elemento cortado /aluminio []
+PASS [390x844] status /ferragens-e-acessorios (200)
+PASS [390x844] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [390x844] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [390x844] status /catalogo (200)
+PASS [390x844] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [390x844] nenhum elemento cortado /catalogo []
+PASS [390x844] status /orcamento (200)
+PASS [390x844] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [390x844] nenhum elemento cortado /orcamento []
+PASS [390x844] status /trabalhe-conosco (200)
+PASS [390x844] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [390x844] nenhum elemento cortado /trabalhe-conosco []
+PASS [390x844] status /contato (200)
+PASS [390x844] sem rolagem horizontal /contato (excesso 0px)
+PASS [390x844] nenhum elemento cortado /contato []
+PASS [390x844] status /conteudos (200)
+PASS [390x844] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [390x844] nenhum elemento cortado /conteudos []
+PASS [390x844] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [390x844] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [390x844] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [390x844] status /produtos/vidro-temperado (200)
+PASS [390x844] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [390x844] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [390x844] status /privacidade (200)
+PASS [390x844] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [390x844] nenhum elemento cortado /privacidade []
+PASS [390x844] status /nao-existe (404)
+PASS [390x844] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [390x844] nenhum elemento cortado /nao-existe []
+PASS [390x844] sem erros de JavaScript []
+PASS [360x800] status / (200)
+PASS [360x800] sem rolagem horizontal / (excesso 0px)
+PASS [360x800] nenhum elemento cortado / []
+PASS [360x800] status /sobre (200)
+PASS [360x800] sem rolagem horizontal /sobre (excesso 0px)
+PASS [360x800] nenhum elemento cortado /sobre []
+PASS [360x800] status /produtos (200)
+PASS [360x800] sem rolagem horizontal /produtos (excesso 0px)
+PASS [360x800] nenhum elemento cortado /produtos []
+PASS [360x800] status /vidros (200)
+PASS [360x800] sem rolagem horizontal /vidros (excesso 0px)
+PASS [360x800] nenhum elemento cortado /vidros []
+PASS [360x800] status /aluminio (200)
+PASS [360x800] sem rolagem horizontal /aluminio (excesso 0px)
+PASS [360x800] nenhum elemento cortado /aluminio []
+PASS [360x800] status /ferragens-e-acessorios (200)
+PASS [360x800] sem rolagem horizontal /ferragens-e-acessorios (excesso 0px)
+PASS [360x800] nenhum elemento cortado /ferragens-e-acessorios []
+PASS [360x800] status /catalogo (200)
+PASS [360x800] sem rolagem horizontal /catalogo (excesso 0px)
+PASS [360x800] nenhum elemento cortado /catalogo []
+PASS [360x800] status /orcamento (200)
+PASS [360x800] sem rolagem horizontal /orcamento (excesso 0px)
+PASS [360x800] nenhum elemento cortado /orcamento []
+PASS [360x800] status /trabalhe-conosco (200)
+PASS [360x800] sem rolagem horizontal /trabalhe-conosco (excesso 0px)
+PASS [360x800] nenhum elemento cortado /trabalhe-conosco []
+PASS [360x800] status /contato (200)
+PASS [360x800] sem rolagem horizontal /contato (excesso 0px)
+PASS [360x800] nenhum elemento cortado /contato []
+PASS [360x800] status /conteudos (200)
+PASS [360x800] sem rolagem horizontal /conteudos (excesso 0px)
+PASS [360x800] nenhum elemento cortado /conteudos []
+PASS [360x800] status /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS [360x800] sem rolagem horizontal /conteudos/como-medir-o-vao-para-orcamento (excesso 0px)
+PASS [360x800] nenhum elemento cortado /conteudos/como-medir-o-vao-para-orcamento []
+PASS [360x800] status /produtos/vidro-temperado (200)
+PASS [360x800] sem rolagem horizontal /produtos/vidro-temperado (excesso 0px)
+PASS [360x800] nenhum elemento cortado /produtos/vidro-temperado []
+PASS [360x800] status /privacidade (200)
+PASS [360x800] sem rolagem horizontal /privacidade (excesso 0px)
+PASS [360x800] nenhum elemento cortado /privacidade []
+PASS [360x800] status /nao-existe (404)
+PASS [360x800] sem rolagem horizontal /nao-existe (excesso 0px)
+PASS [360x800] nenhum elemento cortado /nao-existe []
+PASS [360x800] sem erros de JavaScript []
+PASS banner de cookies aparece 
+PASS banner de cookies fecha 
+PASS menu suspenso abre com hover 
+PASS clique no submenu leva a /vidros 
+PASS menu 'Início' navega http://localhost:3000/
+PASS menu 'Sobre' navega http://localhost:3000/sobre
+PASS menu 'Conteúdos' navega http://localhost:3000/conteudos
+PASS menu 'Trabalhe conosco' navega http://localhost:3000/trabalhe-conosco
+PASS menu 'Contato' navega http://localhost:3000/contato
+PASS CTA do cabeçalho abre orçamento 
+PASS hero 'Conhecer produtos' 
+PASS card de categoria navega 
+PASS carrossel avança com o botão (0->413)
+PASS indicador do carrossel volta ao início 
+PASS galeria: ampliação e navegação por teclado Sala com parede decorada e espelhos · 3/9 -> Banheiro com box de vidro e acabamento escuro · 4/9
+PASS galeria fecha com Esc 
+PASS mapa carrega iframe do Google Maps 
+PASS botão 'Abrir rota' aponta para Google Maps 
+PASS WhatsApp flutuante com número verificado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS WhatsApp flutuante dentro da tela 
+PASS busca filtra resultados (14 -> 4)
+PASS busca reflete na URL http://localhost:3000/catalogo?busca=box
+PASS filtro de categoria {'FERRAGENS'}
+PASS visualização em lista 
+PASS estado vazio da busca 
+PASS compartilhar: copiar link 
+PASS orçamento pré-preenchido pelo produto 
+PASS validação: bloqueia envio vazio 
+PASS máscara de telefone (85) 99999-8888
+PASS orçamento com múltiplos itens 
+PASS upload de arquivo listado 
+PASS orçamento enviado com protocolo ORC-20261110-KN2T
+PASS resumo encaminhável pelo WhatsApp 
+PASS telefone verificado na página de contato 
+PASS botão de rota 
+PASS formulário de contato enviado 
+PASS currículo rejeita não-PDF 
+PASS candidatura com PDF enviada 
+PASS API rejeita payload sem form 
+PASS admin protegido redireciona para login 
+PASS login recusa senha errada 
+PASS admin lista o orçamento recebido 
+PASS admin altera status 
+PASS edição no painel aparece no site 
+PASS admin lista candidatura 
+PASS menu mobile abre 
+PASS menu mobile navega e fecha 
+PASS WhatsApp não cobre o menu no mobile 
+PASS link sem href vazio em / #conteudo
+PASS link sem href vazio em / tel:+5585998090245
+PASS link sem href vazio em / /
+PASS link sem href vazio em / /
+PASS link sem href vazio em / /sobre
+PASS link sem href vazio em / /produtos
+PASS link sem href vazio em / /conteudos
+PASS link sem href vazio em / /trabalhe-conosco
+PASS link sem href vazio em / /contato
+PASS link sem href vazio em / /orcamento
+PASS link sem href vazio em / /orcamento
+PASS link sem href vazio em / /produtos
+PASS link sem href vazio em / https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em / /vidros
+PASS link sem href vazio em / /aluminio
+PASS link sem href vazio em / /ferragens-e-acessorios
+PASS link sem href vazio em / /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em / /sobre
+PASS link sem href vazio em / /catalogo
+PASS link sem href vazio em / /produtos/vidro-comum
+PASS link sem href vazio em / /produtos/vidro-comum
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20comum%20(float).
+PASS link sem href vazio em / /orcamento?produto=vidro-comum
+PASS link sem href vazio em / /produtos/vidro-temperado
+PASS link sem href vazio em / /produtos/vidro-temperado
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20temperado.
+PASS link sem href vazio em / /orcamento?produto=vidro-temperado
+PASS link sem href vazio em / /produtos/vidro-laminado
+PASS link sem href vazio em / /produtos/vidro-laminado
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20laminado.
+PASS link sem href vazio em / /orcamento?produto=vidro-laminado
+PASS link sem href vazio em / /produtos/espelhos
+PASS link sem href vazio em / /produtos/espelhos
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Espelhos.
+PASS link sem href vazio em / /orcamento?produto=espelhos
+PASS link sem href vazio em / /produtos/perfis-de-aluminio
+PASS link sem href vazio em / /produtos/perfis-de-aluminio
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Perfis%20de%20alum%C3%ADnio.
+PASS link sem href vazio em / /orcamento?produto=perfis-de-aluminio
+PASS link sem href vazio em / /produtos/ferragens-para-vidro-temperado
+PASS link sem href vazio em / /produtos/ferragens-para-vidro-temperado
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Ferragens%20para%20vidro%20temperado.
+PASS link sem href vazio em / /orcamento?produto=ferragens-para-vidro-temperado
+PASS link sem href vazio em / /orcamento
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Sou%20profissional%20(vidraceiro%2Fserralheiro)%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em / /catalogo?busca=janelas
+PASS link sem href vazio em / /catalogo?busca=box
+PASS link sem href vazio em / /catalogo?busca=guarda-corpo
+PASS link sem href vazio em / /catalogo?busca=espelho
+PASS link sem href vazio em / /catalogo?busca=divis%C3%B3rias
+PASS link sem href vazio em / /catalogo?busca=portas
+PASS link sem href vazio em / https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em / tel:+5585998090245
+PASS link sem href vazio em / https://www.google.com/maps/dir/?api=1&destination=Alumaxi%2C%20Av.%20Dep.%20Paulino%20Rocha%2C%201303%20-%20Cajazeiras%2C%20Fortaleza%20-%20CE
+PASS link sem href vazio em / /contato
+PASS link sem href vazio em / https://www.google.com/maps/dir/?api=1&destination=Alumaxi%2C%20Av.%20Dep.%20Paulino%20Rocha%2C%201303%20-%20Cajazeiras%2C%20Fortaleza%20-%20CE
+PASS link sem href vazio em / /orcamento
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em / https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em / /vidros
+PASS link sem href vazio em / /aluminio
+PASS link sem href vazio em / /ferragens-e-acessorios
+PASS link sem href vazio em / /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em / /catalogo
+PASS link sem href vazio em / /sobre
+PASS link sem href vazio em / /orcamento
+PASS link sem href vazio em / /conteudos
+PASS link sem href vazio em / /trabalhe-conosco
+PASS link sem href vazio em / /contato
+PASS link sem href vazio em / /privacidade
+PASS link sem href vazio em / https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em / tel:+5585998090245
+PASS link sem href vazio em / https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /sobre #conteudo
+PASS link sem href vazio em /sobre tel:+5585998090245
+PASS link sem href vazio em /sobre /
+PASS link sem href vazio em /sobre /
+PASS link sem href vazio em /sobre /sobre
+PASS link sem href vazio em /sobre /produtos
+PASS link sem href vazio em /sobre /conteudos
+PASS link sem href vazio em /sobre /trabalhe-conosco
+PASS link sem href vazio em /sobre /contato
+PASS link sem href vazio em /sobre /orcamento
+PASS link sem href vazio em /sobre /
+PASS link sem href vazio em /sobre /orcamento
+PASS link sem href vazio em /sobre https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /sobre https://www.google.com/maps/dir/?api=1&destination=Alumaxi%2C%20Av.%20Dep.%20Paulino%20Rocha%2C%201303%20-%20Cajazeiras%2C%20Fortaleza%20-%20CE
+PASS link sem href vazio em /sobre /orcamento
+PASS link sem href vazio em /sobre https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /sobre https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /sobre https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /sobre /vidros
+PASS link sem href vazio em /sobre /aluminio
+PASS link sem href vazio em /sobre /ferragens-e-acessorios
+PASS link sem href vazio em /sobre /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /sobre /catalogo
+PASS link sem href vazio em /sobre /sobre
+PASS link sem href vazio em /sobre /orcamento
+PASS link sem href vazio em /sobre /conteudos
+PASS link sem href vazio em /sobre /trabalhe-conosco
+PASS link sem href vazio em /sobre /contato
+PASS link sem href vazio em /sobre /privacidade
+PASS link sem href vazio em /sobre https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /sobre tel:+5585998090245
+PASS link sem href vazio em /sobre https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /produtos #conteudo
+PASS link sem href vazio em /produtos tel:+5585998090245
+PASS link sem href vazio em /produtos /
+PASS link sem href vazio em /produtos /
+PASS link sem href vazio em /produtos /sobre
+PASS link sem href vazio em /produtos /produtos
+PASS link sem href vazio em /produtos /conteudos
+PASS link sem href vazio em /produtos /trabalhe-conosco
+PASS link sem href vazio em /produtos /contato
+PASS link sem href vazio em /produtos /orcamento
+PASS link sem href vazio em /produtos /
+PASS link sem href vazio em /produtos /vidros
+PASS link sem href vazio em /produtos /aluminio
+PASS link sem href vazio em /produtos /ferragens-e-acessorios
+PASS link sem href vazio em /produtos /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /produtos /orcamento
+PASS link sem href vazio em /produtos https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /produtos https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /produtos https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /produtos /vidros
+PASS link sem href vazio em /produtos /aluminio
+PASS link sem href vazio em /produtos /ferragens-e-acessorios
+PASS link sem href vazio em /produtos /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /produtos /catalogo
+PASS link sem href vazio em /produtos /sobre
+PASS link sem href vazio em /produtos /orcamento
+PASS link sem href vazio em /produtos /conteudos
+PASS link sem href vazio em /produtos /trabalhe-conosco
+PASS link sem href vazio em /produtos /contato
+PASS link sem href vazio em /produtos /privacidade
+PASS link sem href vazio em /produtos https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /produtos tel:+5585998090245
+PASS link sem href vazio em /produtos https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /vidros #conteudo
+PASS link sem href vazio em /vidros tel:+5585998090245
+PASS link sem href vazio em /vidros /
+PASS link sem href vazio em /vidros /
+PASS link sem href vazio em /vidros /sobre
+PASS link sem href vazio em /vidros /produtos
+PASS link sem href vazio em /vidros /conteudos
+PASS link sem href vazio em /vidros /trabalhe-conosco
+PASS link sem href vazio em /vidros /contato
+PASS link sem href vazio em /vidros /orcamento
+PASS link sem href vazio em /vidros /
+PASS link sem href vazio em /vidros /produtos
+PASS link sem href vazio em /vidros /orcamento
+PASS link sem href vazio em /vidros /catalogo
+PASS link sem href vazio em /vidros /catalogo?categoria=vidros
+PASS link sem href vazio em /vidros /produtos/vidro-comum
+PASS link sem href vazio em /vidros /produtos/vidro-comum
+PASS link sem href vazio em /vidros /orcamento?produto=vidro-comum
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20comum%20(float).
+PASS link sem href vazio em /vidros /produtos/vidro-temperado
+PASS link sem href vazio em /vidros /produtos/vidro-temperado
+PASS link sem href vazio em /vidros /orcamento?produto=vidro-temperado
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20temperado.
+PASS link sem href vazio em /vidros /produtos/vidro-laminado
+PASS link sem href vazio em /vidros /produtos/vidro-laminado
+PASS link sem href vazio em /vidros /orcamento?produto=vidro-laminado
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20laminado.
+PASS link sem href vazio em /vidros /produtos/espelhos
+PASS link sem href vazio em /vidros /produtos/espelhos
+PASS link sem href vazio em /vidros /orcamento?produto=espelhos
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Espelhos.
+PASS link sem href vazio em /vidros /produtos/vidros-para-box
+PASS link sem href vazio em /vidros /produtos/vidros-para-box
+PASS link sem href vazio em /vidros /orcamento?produto=vidros-para-box
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidros%20para%20box.
+PASS link sem href vazio em /vidros /orcamento
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /vidros https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /vidros /vidros
+PASS link sem href vazio em /vidros /aluminio
+PASS link sem href vazio em /vidros /ferragens-e-acessorios
+PASS link sem href vazio em /vidros /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /vidros /catalogo
+PASS link sem href vazio em /vidros /sobre
+PASS link sem href vazio em /vidros /orcamento
+PASS link sem href vazio em /vidros /conteudos
+PASS link sem href vazio em /vidros /trabalhe-conosco
+PASS link sem href vazio em /vidros /contato
+PASS link sem href vazio em /vidros /privacidade
+PASS link sem href vazio em /vidros https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /vidros tel:+5585998090245
+PASS link sem href vazio em /vidros https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /aluminio #conteudo
+PASS link sem href vazio em /aluminio tel:+5585998090245
+PASS link sem href vazio em /aluminio /
+PASS link sem href vazio em /aluminio /
+PASS link sem href vazio em /aluminio /sobre
+PASS link sem href vazio em /aluminio /produtos
+PASS link sem href vazio em /aluminio /conteudos
+PASS link sem href vazio em /aluminio /trabalhe-conosco
+PASS link sem href vazio em /aluminio /contato
+PASS link sem href vazio em /aluminio /orcamento
+PASS link sem href vazio em /aluminio /
+PASS link sem href vazio em /aluminio /produtos
+PASS link sem href vazio em /aluminio /orcamento
+PASS link sem href vazio em /aluminio /catalogo
+PASS link sem href vazio em /aluminio /catalogo?categoria=aluminio
+PASS link sem href vazio em /aluminio /produtos/perfis-de-aluminio
+PASS link sem href vazio em /aluminio /produtos/perfis-de-aluminio
+PASS link sem href vazio em /aluminio /orcamento?produto=perfis-de-aluminio
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Perfis%20de%20alum%C3%ADnio.
+PASS link sem href vazio em /aluminio /produtos/linhas-para-esquadrias
+PASS link sem href vazio em /aluminio /produtos/linhas-para-esquadrias
+PASS link sem href vazio em /aluminio /orcamento?produto=linhas-para-esquadrias
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Linhas%20para%20esquadrias.
+PASS link sem href vazio em /aluminio /produtos/componentes-para-aluminio
+PASS link sem href vazio em /aluminio /produtos/componentes-para-aluminio
+PASS link sem href vazio em /aluminio /orcamento?produto=componentes-para-aluminio
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Componentes%20para%20alum%C3%ADnio.
+PASS link sem href vazio em /aluminio /orcamento
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /aluminio https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /aluminio /vidros
+PASS link sem href vazio em /aluminio /aluminio
+PASS link sem href vazio em /aluminio /ferragens-e-acessorios
+PASS link sem href vazio em /aluminio /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /aluminio /catalogo
+PASS link sem href vazio em /aluminio /sobre
+PASS link sem href vazio em /aluminio /orcamento
+PASS link sem href vazio em /aluminio /conteudos
+PASS link sem href vazio em /aluminio /trabalhe-conosco
+PASS link sem href vazio em /aluminio /contato
+PASS link sem href vazio em /aluminio /privacidade
+PASS link sem href vazio em /aluminio https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /aluminio tel:+5585998090245
+PASS link sem href vazio em /aluminio https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /ferragens-e-acessorios #conteudo
+PASS link sem href vazio em /ferragens-e-acessorios tel:+5585998090245
+PASS link sem href vazio em /ferragens-e-acessorios /
+PASS link sem href vazio em /ferragens-e-acessorios /
+PASS link sem href vazio em /ferragens-e-acessorios /sobre
+PASS link sem href vazio em /ferragens-e-acessorios /produtos
+PASS link sem href vazio em /ferragens-e-acessorios /conteudos
+PASS link sem href vazio em /ferragens-e-acessorios /trabalhe-conosco
+PASS link sem href vazio em /ferragens-e-acessorios /contato
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento
+PASS link sem href vazio em /ferragens-e-acessorios /
+PASS link sem href vazio em /ferragens-e-acessorios /produtos
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento
+PASS link sem href vazio em /ferragens-e-acessorios /catalogo
+PASS link sem href vazio em /ferragens-e-acessorios /catalogo?categoria=ferragens
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/ferragens-para-vidro-temperado
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/ferragens-para-vidro-temperado
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=ferragens-para-vidro-temperado
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Ferragens%20para%20vidro%20temperado.
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/kits-para-box
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/kits-para-box
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=kits-para-box
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Kits%20e%20ferragens%20para%20box.
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/fechaduras-e-puxadores
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/fechaduras-e-puxadores
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=fechaduras-e-puxadores
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Fechaduras%20e%20puxadores.
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/componentes-de-fixacao
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/componentes-de-fixacao
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=componentes-de-fixacao
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Componentes%20de%20fixa%C3%A7%C3%A3o.
+PASS link sem href vazio em /ferragens-e-acessorios /catalogo?categoria=acessorios
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/vedacao-e-acabamento
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/vedacao-e-acabamento
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=vedacao-e-acabamento
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Veda%C3%A7%C3%A3o%20e%20acabamento.
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/itens-de-instalacao
+PASS link sem href vazio em /ferragens-e-acessorios /produtos/itens-de-instalacao
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento?produto=itens-de-instalacao
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Itens%20de%20instala%C3%A7%C3%A3o.
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /ferragens-e-acessorios https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /ferragens-e-acessorios /vidros
+PASS link sem href vazio em /ferragens-e-acessorios /aluminio
+PASS link sem href vazio em /ferragens-e-acessorios /ferragens-e-acessorios
+PASS link sem href vazio em /ferragens-e-acessorios /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /ferragens-e-acessorios /catalogo
+PASS link sem href vazio em /ferragens-e-acessorios /sobre
+PASS link sem href vazio em /ferragens-e-acessorios /orcamento
+PASS link sem href vazio em /ferragens-e-acessorios /conteudos
+PASS link sem href vazio em /ferragens-e-acessorios /trabalhe-conosco
+PASS link sem href vazio em /ferragens-e-acessorios /contato
+PASS link sem href vazio em /ferragens-e-acessorios /privacidade
+PASS link sem href vazio em /ferragens-e-acessorios https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /ferragens-e-acessorios tel:+5585998090245
+PASS link sem href vazio em /ferragens-e-acessorios https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /catalogo #conteudo
+PASS link sem href vazio em /catalogo tel:+5585998090245
+PASS link sem href vazio em /catalogo /
+PASS link sem href vazio em /catalogo /
+PASS link sem href vazio em /catalogo /sobre
+PASS link sem href vazio em /catalogo /produtos
+PASS link sem href vazio em /catalogo /conteudos
+PASS link sem href vazio em /catalogo /trabalhe-conosco
+PASS link sem href vazio em /catalogo /contato
+PASS link sem href vazio em /catalogo /orcamento
+PASS link sem href vazio em /catalogo /
+PASS link sem href vazio em /catalogo https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Gostaria%20de%20receber%20o%20cat%C3%A1logo%20de%20produtos.
+PASS link sem href vazio em /catalogo https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /catalogo https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /catalogo /vidros
+PASS link sem href vazio em /catalogo /aluminio
+PASS link sem href vazio em /catalogo /ferragens-e-acessorios
+PASS link sem href vazio em /catalogo /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /catalogo /catalogo
+PASS link sem href vazio em /catalogo /sobre
+PASS link sem href vazio em /catalogo /orcamento
+PASS link sem href vazio em /catalogo /conteudos
+PASS link sem href vazio em /catalogo /trabalhe-conosco
+PASS link sem href vazio em /catalogo /contato
+PASS link sem href vazio em /catalogo /privacidade
+PASS link sem href vazio em /catalogo https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /catalogo tel:+5585998090245
+PASS link sem href vazio em /catalogo https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /orcamento #conteudo
+PASS link sem href vazio em /orcamento tel:+5585998090245
+PASS link sem href vazio em /orcamento /
+PASS link sem href vazio em /orcamento /
+PASS link sem href vazio em /orcamento /sobre
+PASS link sem href vazio em /orcamento /produtos
+PASS link sem href vazio em /orcamento /conteudos
+PASS link sem href vazio em /orcamento /trabalhe-conosco
+PASS link sem href vazio em /orcamento /contato
+PASS link sem href vazio em /orcamento /orcamento
+PASS link sem href vazio em /orcamento /
+PASS link sem href vazio em /orcamento /privacidade
+PASS link sem href vazio em /orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /orcamento https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /orcamento /vidros
+PASS link sem href vazio em /orcamento /aluminio
+PASS link sem href vazio em /orcamento /ferragens-e-acessorios
+PASS link sem href vazio em /orcamento /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /orcamento /catalogo
+PASS link sem href vazio em /orcamento /sobre
+PASS link sem href vazio em /orcamento /orcamento
+PASS link sem href vazio em /orcamento /conteudos
+PASS link sem href vazio em /orcamento /trabalhe-conosco
+PASS link sem href vazio em /orcamento /contato
+PASS link sem href vazio em /orcamento /privacidade
+PASS link sem href vazio em /orcamento https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /orcamento tel:+5585998090245
+PASS link sem href vazio em /orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /orcamento /privacidade
+PASS link sem href vazio em /trabalhe-conosco #conteudo
+PASS link sem href vazio em /trabalhe-conosco tel:+5585998090245
+PASS link sem href vazio em /trabalhe-conosco /
+PASS link sem href vazio em /trabalhe-conosco /
+PASS link sem href vazio em /trabalhe-conosco /sobre
+PASS link sem href vazio em /trabalhe-conosco /produtos
+PASS link sem href vazio em /trabalhe-conosco /conteudos
+PASS link sem href vazio em /trabalhe-conosco /trabalhe-conosco
+PASS link sem href vazio em /trabalhe-conosco /contato
+PASS link sem href vazio em /trabalhe-conosco /orcamento
+PASS link sem href vazio em /trabalhe-conosco /
+PASS link sem href vazio em /trabalhe-conosco /privacidade
+PASS link sem href vazio em /trabalhe-conosco https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /trabalhe-conosco https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /trabalhe-conosco /vidros
+PASS link sem href vazio em /trabalhe-conosco /aluminio
+PASS link sem href vazio em /trabalhe-conosco /ferragens-e-acessorios
+PASS link sem href vazio em /trabalhe-conosco /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /trabalhe-conosco /catalogo
+PASS link sem href vazio em /trabalhe-conosco /sobre
+PASS link sem href vazio em /trabalhe-conosco /orcamento
+PASS link sem href vazio em /trabalhe-conosco /conteudos
+PASS link sem href vazio em /trabalhe-conosco /trabalhe-conosco
+PASS link sem href vazio em /trabalhe-conosco /contato
+PASS link sem href vazio em /trabalhe-conosco /privacidade
+PASS link sem href vazio em /trabalhe-conosco https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /trabalhe-conosco tel:+5585998090245
+PASS link sem href vazio em /trabalhe-conosco https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /contato #conteudo
+PASS link sem href vazio em /contato tel:+5585998090245
+PASS link sem href vazio em /contato /
+PASS link sem href vazio em /contato /
+PASS link sem href vazio em /contato /sobre
+PASS link sem href vazio em /contato /produtos
+PASS link sem href vazio em /contato /conteudos
+PASS link sem href vazio em /contato /trabalhe-conosco
+PASS link sem href vazio em /contato /contato
+PASS link sem href vazio em /contato /orcamento
+PASS link sem href vazio em /contato /
+PASS link sem href vazio em /contato https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /contato tel:+5585998090245
+PASS link sem href vazio em /contato https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /contato /orcamento
+PASS link sem href vazio em /contato /privacidade
+PASS link sem href vazio em /contato https://www.google.com/maps/dir/?api=1&destination=Alumaxi%2C%20Av.%20Dep.%20Paulino%20Rocha%2C%201303%20-%20Cajazeiras%2C%20Fortaleza%20-%20CE
+PASS link sem href vazio em /contato https://www.google.com/maps/dir/?api=1&destination=Alumaxi%2C%20Av.%20Dep.%20Paulino%20Rocha%2C%201303%20-%20Cajazeiras%2C%20Fortaleza%20-%20CE
+PASS link sem href vazio em /contato https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /contato https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /contato /vidros
+PASS link sem href vazio em /contato /aluminio
+PASS link sem href vazio em /contato /ferragens-e-acessorios
+PASS link sem href vazio em /contato /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /contato /catalogo
+PASS link sem href vazio em /contato /sobre
+PASS link sem href vazio em /contato /orcamento
+PASS link sem href vazio em /contato /conteudos
+PASS link sem href vazio em /contato /trabalhe-conosco
+PASS link sem href vazio em /contato /contato
+PASS link sem href vazio em /contato /privacidade
+PASS link sem href vazio em /contato https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /contato tel:+5585998090245
+PASS link sem href vazio em /contato https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos #conteudo
+PASS link sem href vazio em /conteudos tel:+5585998090245
+PASS link sem href vazio em /conteudos /
+PASS link sem href vazio em /conteudos /
+PASS link sem href vazio em /conteudos /sobre
+PASS link sem href vazio em /conteudos /produtos
+PASS link sem href vazio em /conteudos /conteudos
+PASS link sem href vazio em /conteudos /trabalhe-conosco
+PASS link sem href vazio em /conteudos /contato
+PASS link sem href vazio em /conteudos /orcamento
+PASS link sem href vazio em /conteudos /
+PASS link sem href vazio em /conteudos /conteudos/vidro-temperado-ou-laminado
+PASS link sem href vazio em /conteudos /conteudos/como-medir-o-vao-para-orcamento
+PASS link sem href vazio em /conteudos /conteudos/cuidados-com-esquadrias-de-aluminio
+PASS link sem href vazio em /conteudos https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /conteudos /vidros
+PASS link sem href vazio em /conteudos /aluminio
+PASS link sem href vazio em /conteudos /ferragens-e-acessorios
+PASS link sem href vazio em /conteudos /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /conteudos /catalogo
+PASS link sem href vazio em /conteudos /sobre
+PASS link sem href vazio em /conteudos /orcamento
+PASS link sem href vazio em /conteudos /conteudos
+PASS link sem href vazio em /conteudos /trabalhe-conosco
+PASS link sem href vazio em /conteudos /contato
+PASS link sem href vazio em /conteudos /privacidade
+PASS link sem href vazio em /conteudos https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /conteudos tel:+5585998090245
+PASS link sem href vazio em /conteudos https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos /privacidade
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento #conteudo
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento tel:+5585998090245
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /sobre
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /produtos
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /conteudos
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /trabalhe-conosco
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /contato
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /orcamento
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /conteudos
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /conteudos
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://wa.me/?text=Como%20medir%20o%20v%C3%A3o%20para%20pedir%20um%20or%C3%A7amento%20de%20vidro%20%E2%80%94%20
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /orcamento
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /vidros
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /aluminio
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /ferragens-e-acessorios
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /catalogo
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /sobre
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /orcamento
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /conteudos
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /trabalhe-conosco
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /contato
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /privacidade
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento tel:+5585998090245
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /conteudos/como-medir-o-vao-para-orcamento /privacidade
+PASS link sem href vazio em /produtos/vidro-temperado #conteudo
+PASS link sem href vazio em /produtos/vidro-temperado tel:+5585998090245
+PASS link sem href vazio em /produtos/vidro-temperado /
+PASS link sem href vazio em /produtos/vidro-temperado /
+PASS link sem href vazio em /produtos/vidro-temperado /sobre
+PASS link sem href vazio em /produtos/vidro-temperado /produtos
+PASS link sem href vazio em /produtos/vidro-temperado /conteudos
+PASS link sem href vazio em /produtos/vidro-temperado /trabalhe-conosco
+PASS link sem href vazio em /produtos/vidro-temperado /contato
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento
+PASS link sem href vazio em /produtos/vidro-temperado /
+PASS link sem href vazio em /produtos/vidro-temperado /produtos
+PASS link sem href vazio em /produtos/vidro-temperado /vidros
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento?produto=vidro-temperado
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20temperado.
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/?text=Vidro%20temperado%20%E2%80%94%20Alumaxi%20%E2%80%94%20
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/vidro-comum
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/vidro-comum
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20comum%20(float).
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento?produto=vidro-comum
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/vidro-laminado
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/vidro-laminado
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Vidro%20laminado.
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento?produto=vidro-laminado
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/espelhos
+PASS link sem href vazio em /produtos/vidro-temperado /produtos/espelhos
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%3A%20Espelhos.
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento?produto=espelhos
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /produtos/vidro-temperado https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /produtos/vidro-temperado /vidros
+PASS link sem href vazio em /produtos/vidro-temperado /aluminio
+PASS link sem href vazio em /produtos/vidro-temperado /ferragens-e-acessorios
+PASS link sem href vazio em /produtos/vidro-temperado /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /produtos/vidro-temperado /catalogo
+PASS link sem href vazio em /produtos/vidro-temperado /sobre
+PASS link sem href vazio em /produtos/vidro-temperado /orcamento
+PASS link sem href vazio em /produtos/vidro-temperado /conteudos
+PASS link sem href vazio em /produtos/vidro-temperado /trabalhe-conosco
+PASS link sem href vazio em /produtos/vidro-temperado /contato
+PASS link sem href vazio em /produtos/vidro-temperado /privacidade
+PASS link sem href vazio em /produtos/vidro-temperado https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /produtos/vidro-temperado tel:+5585998090245
+PASS link sem href vazio em /produtos/vidro-temperado https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /privacidade #conteudo
+PASS link sem href vazio em /privacidade tel:+5585998090245
+PASS link sem href vazio em /privacidade /
+PASS link sem href vazio em /privacidade /
+PASS link sem href vazio em /privacidade /sobre
+PASS link sem href vazio em /privacidade /produtos
+PASS link sem href vazio em /privacidade /conteudos
+PASS link sem href vazio em /privacidade /trabalhe-conosco
+PASS link sem href vazio em /privacidade /contato
+PASS link sem href vazio em /privacidade /orcamento
+PASS link sem href vazio em /privacidade /
+PASS link sem href vazio em /privacidade https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /privacidade https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /privacidade /vidros
+PASS link sem href vazio em /privacidade /aluminio
+PASS link sem href vazio em /privacidade /ferragens-e-acessorios
+PASS link sem href vazio em /privacidade /ferragens-e-acessorios#acessorios
+PASS link sem href vazio em /privacidade /catalogo
+PASS link sem href vazio em /privacidade /sobre
+PASS link sem href vazio em /privacidade /orcamento
+PASS link sem href vazio em /privacidade /conteudos
+PASS link sem href vazio em /privacidade /trabalhe-conosco
+PASS link sem href vazio em /privacidade /contato
+PASS link sem href vazio em /privacidade /privacidade
+PASS link sem href vazio em /privacidade https://www.google.com/maps/place/Alumaxi/@-3.8085372,-38.508204,17z/data=!4m6!3m5!1s0x7c74f7937cd5f33:0xeec24a673fef1554!8m2!3d-3.8085372!4d-38.508204!16s%2Fg%2F11zchjx1_x
+PASS link sem href vazio em /privacidade tel:+5585998090245
+PASS link sem href vazio em /privacidade https://wa.me/5585998090245?text=Ol%C3%A1%2C%20Alumaxi!%20Vim%20pelo%20site%20e%20gostaria%20de%20atendimento.
+PASS link sem href vazio em /privacidade /privacidade
+PASS link interno / (200)
+PASS link interno /aluminio (200)
+PASS link interno /catalogo (200)
+PASS link interno /catalogo?busca=box (200)
+PASS link interno /catalogo?busca=divis%C3%B3rias (200)
+PASS link interno /catalogo?busca=espelho (200)
+PASS link interno /catalogo?busca=guarda-corpo (200)
+PASS link interno /catalogo?busca=janelas (200)
+PASS link interno /catalogo?busca=portas (200)
+PASS link interno /catalogo?categoria=acessorios (200)
+PASS link interno /catalogo?categoria=aluminio (200)
+PASS link interno /catalogo?categoria=ferragens (200)
+PASS link interno /catalogo?categoria=vidros (200)
+PASS link interno /contato (200)
+PASS link interno /conteudos (200)
+PASS link interno /conteudos/como-medir-o-vao-para-orcamento (200)
+PASS link interno /conteudos/cuidados-com-esquadrias-de-aluminio (200)
+PASS link interno /conteudos/vidro-temperado-ou-laminado (200)
+PASS link interno /ferragens-e-acessorios (200)
+PASS link interno /orcamento (200)
+PASS link interno /orcamento?produto=componentes-de-fixacao (200)
+PASS link interno /orcamento?produto=componentes-para-aluminio (200)
+PASS link interno /orcamento?produto=espelhos (200)
+PASS link interno /orcamento?produto=fechaduras-e-puxadores (200)
+PASS link interno /orcamento?produto=ferragens-para-vidro-temperado (200)
+PASS link interno /orcamento?produto=itens-de-instalacao (200)
+PASS link interno /orcamento?produto=kits-para-box (200)
+PASS link interno /orcamento?produto=linhas-para-esquadrias (200)
+PASS link interno /orcamento?produto=perfis-de-aluminio (200)
+PASS link interno /orcamento?produto=vedacao-e-acabamento (200)
+PASS link interno /orcamento?produto=vidro-comum (200)
+PASS link interno /orcamento?produto=vidro-laminado (200)
+PASS link interno /orcamento?produto=vidro-temperado (200)
+PASS link interno /orcamento?produto=vidros-para-box (200)
+PASS link interno /privacidade (200)
+PASS link interno /produtos (200)
+PASS link interno /produtos/componentes-de-fixacao (200)
+PASS link interno /produtos/componentes-para-aluminio (200)
+PASS link interno /produtos/espelhos (200)
+PASS link interno /produtos/fechaduras-e-puxadores (200)
+PASS link interno /produtos/ferragens-para-vidro-temperado (200)
+PASS link interno /produtos/itens-de-instalacao (200)
+PASS link interno /produtos/kits-para-box (200)
+PASS link interno /produtos/linhas-para-esquadrias (200)
+PASS link interno /produtos/perfis-de-aluminio (200)
+PASS link interno /produtos/vedacao-e-acabamento (200)
+PASS link interno /produtos/vidro-comum (200)
+PASS link interno /produtos/vidro-laminado (200)
+PASS link interno /produtos/vidro-temperado (200)
+PASS link interno /produtos/vidros-para-box (200)
+PASS link interno /sobre (200)
+PASS link interno /trabalhe-conosco (200)
+PASS link interno /vidros (200)
